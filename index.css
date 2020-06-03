@@ -52,6 +52,8 @@ html, body{
     font-family: 'raleway', sans-serif;
     text-align: center;
     font-size: 30px;
+    max-width: 610px;
+    margin: 0 auto;
 }
 
 #greeting2{
